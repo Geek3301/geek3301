@@ -13,11 +13,11 @@ Education: IT Specialist in Application Development (2025–2028)
 
 Some video game demos I’ve made:
 
-  - [Car](https://geek3301.github.io/car)  
+  - [Car](https://geek3301.github.io/racing-game)  
   <!-- ![Project 1 Screenshot](https://example.com/screenshot1.png)-->
-  - [Shooter](https://geek3301.github.io/shooter)  
+  - [Shooter](https://geek3301.github.io/shooter-game)  
   <!-- ![Project 1 Screenshot](https://example.com/screenshot1.png)-->
-  - [Platformer](https://geek3301.github.io/platformer)  
+  - [Platformer](https://geek3301.github.io/platformer-game)  
   <!-- ![Project 1 Screenshot](https://example.com/screenshot1.png)-->
 
 My websites:
