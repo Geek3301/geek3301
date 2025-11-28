@@ -1,4 +1,4 @@
-Hi there :)
+# Hi there :)
 
 I’m a motivated IT specialist apprentice for application development, currently gaining practical experience at CHECK24. I’m working on PHP applications and relational databases (SQL), contributing to software projects, optimizing queries, and helping implement new features.
 
