@@ -5,7 +5,9 @@ I’m a motivated IT specialist apprentice for application development, currentl
 I’m especially interested in structured database design, and practical software development. I’m open to knowledge exchange, mentoring, and collaborative projects in Leipzig or remotely.
 
 Focus areas: PHP, SQL, database management, application development
+
 Current position: Apprentice at CHECK24 (Felix-Bloch School), Leipzig
+
 Education: IT Specialist in Application Development (2025–2028)
 
 
