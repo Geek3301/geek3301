@@ -27,5 +27,7 @@ My websites:
   <!-- ![CD Catalog](https://example.com/screenshot2.png)-->
 
 Contact info:
+
   LinkedIn: https://www.linkedin.com/in/fedir-bereza-100555382/
+  
   E-mail: bereza.fedor1@gmail.com
