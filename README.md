@@ -23,7 +23,9 @@ Some video game demos I’ve made:
 My websites:
   - [Gift for Me](https://gift-for-me.page.gd/) 
   <!-- ![Gift for Me Screenshot](https://example.com/screenshot2.png)-->
+  - [CD Catalog](https://cd-catalog.page.gd/public/index.php/) 
+  <!-- ![CD Catalog](https://example.com/screenshot2.png)-->
 
 Contact info:
-
+  LinkedIn: https://www.linkedin.com/in/fedir-bereza-100555382/
   E-mail: bereza.fedor1@gmail.com
