@@ -21,11 +21,11 @@
 I’m an IT Specialist apprentice for Application Development currently gaining practical experience at **CHECK24**. I work with **PHP applications** and **relational databases (SQL)** — contributing to projects, optimizing queries, and implementing new features.
 
 
-```
+
 Skills: PHP (Laminas) · SQL (Databases) · Java (Spring Boot) · C# (Unity) · JavaScript (Construct 2)
 Current position: Apprentice at CHECK24 (Felix-Bloch School), Leipzig
 Education: IT Specialist in Application Development (2025–2028)
-```
+
 
 
 ---
