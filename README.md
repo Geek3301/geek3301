@@ -46,7 +46,7 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 
 ---
 
-### Contact
+## Contact
 
 
   
