@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/PHP-Laminas-777BB4?style=flat" />
 <img src="https://img.shields.io/badge/SQL-Databases-336791?style=flat" />
 <img src="https://img.shields.io/badge/Java-Spring%20Boot-F89820?style=flat" />
-<img src="https://img.shields.io/badge/C%23-Unity-00B8B8?style=flat" />
+<img src="https://img.shields.io/badge/C%23-Unity-008080?style=flat" />
 <img src="https://img.shields.io/badge/JavaScript-Construct%202-F7DF1E?style=flat" />
 
 </div>
