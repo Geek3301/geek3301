@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-Laminas-777BB4?style=flat" /></a>
+<a href="https://getlaminas.org/about/"><img src="https://img.shields.io/badge/PHP-Laminas-777BB4?style=flat" /></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-Databases-336791?style=flat" /></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Java-Spring%20Boot-F89820?style=flat" /></a>
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/C%23-Unity-008080?style=flat" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-Construct%202-F7DF1E?style=flat" /></a>
+<a href="https://www.construct.net/en"><img src="https://img.shields.io/badge/JavaScript-Construct%202-F7DF1E?style=flat" /></a>
 
 
 </div>
