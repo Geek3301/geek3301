@@ -21,7 +21,7 @@
 I’m an IT Specialist apprentice for Application Development currently gaining practical experience at **CHECK24**. I work with **PHP applications** and **relational databases (SQL)** — contributing to projects, optimizing queries, and implementing new features.
 
 
-**Focus areas:** `PHP` · `SQL` · `Database Management` · `Application Development`
+**Focus areas:** PHP (Laminas) · SQL (Databases) · Java (Spring Boot) · C# (Unity) · JavaScript (Construct 2)
 
 **Current position:** Apprentice @ CHECK24 (Felix-Bloch School), Leipzig
 
