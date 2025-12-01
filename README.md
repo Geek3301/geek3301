@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/SQL-Databases-336791?style=flat" />
 <img src="https://img.shields.io/badge/Java-Spring%20Boot-F89820?style=flat" />
 <img src="https://img.shields.io/badge/C%23-Unity-239120?style=flat" />
-<img src="https://img.shields.io/badge/Construct%202-Game%20Dev-4B9CD3?style=flat" />
-<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat" />
+<img src="https://img.shields.io/badge/JavaScript-Construct%202-F7DF1E?style=flat" />
 
 </div>
 
