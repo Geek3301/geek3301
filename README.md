@@ -48,12 +48,13 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 
 ## Contact
 
-<p>
+
+<p style="margin-top: -10px;">
   <a href="https://www.linkedin.com/in/fedir-bereza-100555382/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" 
+      <source media="(prefers-color-scheme: dark)"
               srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
+      <source media="(prefers-color-scheme: light)"
               srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
            width="40" height="40" alt="LinkedIn" title="LinkedIn" />
@@ -66,7 +67,7 @@ Education: IT Specialist in Application Development (2025–2028) <br>
   </span>
 </p>
 
-<p>
+<p style="margin-top: -10px;">
   <a href="mailto:bereza.fedor1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Email" />
@@ -75,6 +76,7 @@ Education: IT Specialist in Application Development (2025–2028) <br>
     bereza.fedor1@gmail.com
   </span>
 </p>
+
 
  
 ---
