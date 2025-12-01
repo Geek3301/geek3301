@@ -60,7 +60,7 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 
 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bereza.fedor1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bereza.fedor1@gmail.com): bereza.fedor1@gmail.com
 
 ### Socials
 
