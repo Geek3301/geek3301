@@ -35,9 +35,9 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 
 ### Game Demos
 
-* **[Car Racing Game]**(https://geek3301.github.io/racing-game)
-* **[Shooter]**(https://geek3301.github.io/shooter-game)
-* **[Platformer]**(https://geek3301.github.io/platformer-game)
+* **[Car Racing Game](https://geek3301.github.io/racing-game)**
+* **[Shooter](https://geek3301.github.io/shooter-game)**
+* **[Platformer](https://geek3301.github.io/platformer-game)**
 
 ### Websites
 
