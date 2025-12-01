@@ -78,7 +78,10 @@ Education: IT Specialist in Application Development (2025–2028) <br>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
            width="32" height="32"
            alt="LinkedIn" title="LinkedIn"
-
+           style="display: inline-block;" />
+    </picture>
+  </a>
+</p>
 
 Or just write me an email: <strong>bereza.fedor1@gmail.com</strong>
 
