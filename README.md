@@ -64,6 +64,7 @@ Education: IT Specialist in Application Development (2025–2028) <br>
            style="display: inline-block;" />
     </picture>
   </a>
+  
   <a href="https://www.linkedin.com/in/fedir-bereza-100555382/"
      target="_blank"
      rel="noreferrer"
