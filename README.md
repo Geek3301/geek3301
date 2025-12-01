@@ -48,9 +48,34 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 
 ## Contact
 
-<p align="left"> <a href="https://www.github.com/geek3301" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/fedir-bereza-100555382/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<br>
-Or just write me an email: bereza.fedor1@gmail.com
+<p align="left" style="margin-bottom: 5px;">
+  <a href="https://www.github.com/geek3301" target="_blank" rel="noreferrer" style="display: inline-block;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+           width="32" height="32" alt="GitHub" title="GitHub" />
+    </picture>
+  </a>
+
+  <a href="https://www.linkedin.com/in/fedir-bereza-100555382/" target="_blank" rel="noreferrer" style="display: inline-block; margin-left: 8px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+           width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
+</p>
+
+<p align="left" style="margin-top: 5px;">
+  Or just write me an email: <strong>bereza.fedor1@gmail.com</strong>
+</p>
+
 ---
 
 <div align="center"><i>Thanks for visiting my profile!</i></div>
