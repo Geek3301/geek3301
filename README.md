@@ -41,8 +41,8 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 
 ### Websites
 
-* **[Gift for Me]**(https://gift-for-me.page.gd/)
-* **[CD Catalog]**(https://cd-catalog.page.gd/public/index.php/)
+* **[Gift for Me](https://gift-for-me.page.gd/)**
+* **[CD Catalog](https://cd-catalog.page.gd/public/index.php/)**
 
 ---
 
