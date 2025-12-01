@@ -66,7 +66,6 @@ Education: IT Specialist in Application Development (2025–2028) <br>
     </picture>
   </a>
 </p>
-Linked in
 
-Or just write me an email: <strong>bereza.fedor1@gmail.com</strong>
+Or just write me an email: [<strong>bereza.fedor1@gmail.com</strong>](mailto:bereza.fedor1@gmail.com) :)
 
