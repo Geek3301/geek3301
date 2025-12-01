@@ -48,22 +48,7 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 
 ### Contact
 
-<p align="left" style="margin: 0; padding: 0;">
-  <a href="https://www.github.com/geek3301"
-     target="_blank"
-     rel="noreferrer"
-     style="text-decoration: none; border: none; outline: none;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)"
-              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-           width="32" height="32"
-           alt="GitHub" title="GitHub"
-           style="display: inline-block;" />
-    </picture>
-  </a>
+
   
   <a href="https://www.linkedin.com/in/fedir-bereza-100555382/"
      target="_blank"
