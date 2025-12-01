@@ -5,8 +5,6 @@
 <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=flat" />
 <img src="https://img.shields.io/badge/SQL-Databases-336791?style=flat" />
 <img src="https://img.shields.io/badge/Leipzig-Germany-0066CC?style=flat" />
-<img src="https://img.shields.io/static/v1?label=Star&message=my%20projects&style=flat&color=BC4E99" />
-
 </div>
 
 <div align="center">
@@ -19,11 +17,13 @@
 
 I’m an IT Specialist apprentice for Application Development currently gaining practical experience at **CHECK24**. I work with **PHP applications** and **relational databases (SQL)** — contributing to projects, optimizing queries, and implementing new features.
 
-I’m especially interested in **structured database design**, **practical development**, and learning industry best practices. Open to **collaboration**, **knowledge exchange**, and **mentoring** — in Leipzig or remotely.
 
 **Focus areas:** `PHP` · `SQL` · `Database Management` · `Application Development`
+
 **Current position:** Apprentice @ CHECK24 (Felix-Bloch School), Leipzig
+
 **Education:** IT Specialist in Application Development (2025–2028)
+
 
 ---
 
