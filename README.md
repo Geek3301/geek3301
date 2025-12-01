@@ -47,7 +47,6 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 ---
 
 ### Contact
-### Contact
 
 <p align="left" style="margin: 0; padding: 0;">
   <a href="https://www.github.com/geek3301"
@@ -65,7 +64,6 @@ Education: IT Specialist in Application Development (2025–2028) <br>
            style="display: inline-block;" />
     </picture>
   </a>
-
   <a href="https://www.linkedin.com/in/fedir-bereza-100555382/"
      target="_blank"
      rel="noreferrer"
