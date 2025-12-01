@@ -22,9 +22,9 @@ I’m an IT Specialist apprentice for Application Development currently gaining 
 
 
 
-Skills: PHP (Laminas) · SQL (Databases) · Java (Spring Boot) · C# (Unity) · JavaScript (Construct 2)
-Current position: Apprentice at CHECK24 (Felix-Bloch School), Leipzig
-Education: IT Specialist in Application Development (2025–2028)
+Skills: PHP (Laminas) · SQL (Databases) · Java (Spring Boot) · C# (Unity) · JavaScript (Construct 2) <br>
+Current position: Apprentice at CHECK24 (Felix-Bloch School), Leipzig <br>
+Education: IT Specialist in Application Development (2025–2028) <br>
 
 
 
