@@ -47,9 +47,34 @@ Education: IT Specialist in Application Development (2025–2028) <br>
 ---
 
 ## Contact
- <a href="https://www.linkedin.com/in/fedir-bereza-100555382/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p> - https://www.linkedin.com/in/fedir-bereza-100555382/ <br>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bereza.fedor1@gmail.com) - bereza.fedor1@gmail.com
 
+<p>
+  <a href="https://www.linkedin.com/in/fedir-bereza-100555382/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+           width="40" height="40" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
+  <span style="font-size: 1.1rem; margin-left: 10px;">
+    <a href="https://www.linkedin.com/in/fedir-bereza-100555382/" target="_blank">
+      linkedin.com/in/fedir-bereza-100555382
+    </a>
+  </span>
+</p>
+
+<p>
+  <a href="mailto:bereza.fedor1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Email" />
+  </a>
+  <span style="font-size: 1.1rem; margin-left: 10px;">
+    bereza.fedor1@gmail.com
+  </span>
+</p>
 
  
 ---
