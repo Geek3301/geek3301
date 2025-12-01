@@ -18,7 +18,7 @@
 
 ## About Me
 
-I’m an IT Specialist apprentice for Application Development currently gaining practical experience at **CHECK24**. I work with **PHP applications** and **relational databases (SQL)** — contributing to projects, optimizing queries, and implementing new features.
+I’m an IT Specialist apprentice for Application Development currently gaining practical experience at **CHECK24**. I currently develop **PHP applications** and manage **relational databases (SQL)**, enhancing projects, optimizing queries, and adding new features.
 
 
 
