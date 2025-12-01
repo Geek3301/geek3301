@@ -1,38 +1,52 @@
-# Hi there :)
+<h1 align="center">Hi there, I’m Fedor</h1>
 
+<div align="center">
 
-I’m a motivated IT specialist apprentice for application development, currently gaining practical experience at CHECK24. I’m working on PHP applications and relational databases (SQL), contributing to software projects, optimizing queries, and helping implement new features.
+<img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=flat" />
+<img src="https://img.shields.io/badge/SQL-Databases-336791?style=flat" />
+<img src="https://img.shields.io/badge/Leipzig-Germany-0066CC?style=flat" />
+<img src="https://img.shields.io/static/v1?label=Star&message=my%20projects&style=flat&color=BC4E99" />
 
+</div>
 
-I’m especially interested in structured database design, and practical software development. I’m open to knowledge exchange, mentoring, and collaborative projects in Leipzig or remotely.
+<div align="center">
+<i>IT Specialist Apprentice · Application Development</i>
+</div>
 
+---
 
-Focus areas: PHP, SQL, database management, application development
+## About Me
 
-Current position: Apprentice at CHECK24 (Felix-Bloch School), Leipzig
+I’m an IT Specialist apprentice for Application Development currently gaining practical experience at **CHECK24**. I work with **PHP applications** and **relational databases (SQL)** — contributing to projects, optimizing queries, and implementing new features.
 
-Education: IT Specialist in Application Development (2025–2028)
+I’m especially interested in **structured database design**, **practical development**, and learning industry best practices. Open to **collaboration**, **knowledge exchange**, and **mentoring** — in Leipzig or remotely.
 
+**Focus areas:** `PHP` · `SQL` · `Database Management` · `Application Development`
+**Current position:** Apprentice @ CHECK24 (Felix-Bloch School), Leipzig
+**Education:** IT Specialist in Application Development (2025–2028)
 
-# My Projects
+---
 
-Some video game demos I’ve made:
+## Projects
 
-  - [Car](https://geek3301.github.io/racing-game)  
-  <!-- ![Project 1 Screenshot](https://example.com/screenshot1.png)-->
-  - [Shooter](https://geek3301.github.io/shooter-game)  
-  <!-- ![Project 1 Screenshot](https://example.com/screenshot1.png)-->
-  - [Platformer](https://geek3301.github.io/platformer-game)  
-  <!-- ![Project 1 Screenshot](https://example.com/screenshot1.png)-->
+### Game Demos
 
-My websites:
-  - [Gift for Me](https://gift-for-me.page.gd/) 
-  <!-- ![Gift for Me Screenshot](https://example.com/screenshot2.png)-->
-  - [CD Catalog](https://cd-catalog.page.gd/public/index.php/) 
-  <!-- ![CD Catalog](https://example.com/screenshot2.png)-->
+* **Car Racing Game** — [https://geek3301.github.io/racing-game](https://geek3301.github.io/racing-game)
+* **Shooter** — [https://geek3301.github.io/shooter-game](https://geek3301.github.io/shooter-game)
+* **Platformer** — [https://geek3301.github.io/platformer-game](https://geek3301.github.io/platformer-game)
 
-Contact info:
+### Websites
 
-  - LinkedIn: https://www.linkedin.com/in/fedir-bereza-100555382/
-  
-  - E-mail: bereza.fedor1@gmail.com
+* **Gift for Me** — [https://gift-for-me.page.gd/](https://gift-for-me.page.gd/)
+* **CD Catalog** — [https://cd-catalog.page.gd/public/index.php/](https://cd-catalog.page.gd/public/index.php/)
+
+---
+
+## Contact
+
+* **LinkedIn:** [https://www.linkedin.com/in/fedir-bereza-100555382/](https://www.linkedin.com/in/fedir-bereza-100555382/)
+* **Email:** [bereza.fedor1@gmail.com](mailto:bereza.fedor1@gmail.com)
+
+---
+
+<div align="center"><i>Thanks for visiting my profile!</i></div>
