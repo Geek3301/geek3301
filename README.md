@@ -9,10 +9,9 @@
 <a href="https://www.construct.net/en"><img src="https://img.shields.io/badge/JavaScript-Construct%202-F7DF1E?style=flat" /></a>
 
 <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></a>
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /></a>
-<a href="https://pub.dev/packages/flutter_bloc"><img src="https://img.shields.io/badge/State--Mgmt-BLoC-0175C2?style=flat" /></a>
-<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></a>
-<a href="https://m3.material.io/"><img src="https://img.shields.io/badge/UI-Material%203-6750A4?style=flat" /></a>
+<a href="https://flutter.dev/"><img src="" /></a>
+<a href="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /></a>
+
 
 </div>
 
