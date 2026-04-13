@@ -8,9 +8,7 @@
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/C%23-Unity-008080?style=flat" /></a>
 <a href="https://www.construct.net/en"><img src="https://img.shields.io/badge/JavaScript-Construct%202-F7DF1E?style=flat" /></a>
 
-<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></a>
-<a href="https://flutter.dev/"><img src="" /></a>
-<a href="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-Dart-0175C2?style=flat&logo=flutter&logoColor=white" /></a>
 
 
 </div>
