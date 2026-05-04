@@ -12,7 +12,10 @@
 </div>
 
 <div align="center">
-  https://www.codewars.com/users/Geek3301/badges/large
+  <a href="https://www.codewars.com/users/Geek3301">
+    <img src="https://www.codewars.com/users/Geek3301/badges/large" alt="Codewars Badge">
+  </a>
+  <br>
   <i>IT Specialist Apprentice · Application Development</i>
 </div>
 
