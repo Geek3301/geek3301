@@ -12,7 +12,8 @@
 </div>
 
 <div align="center">
-<i>IT Specialist Apprentice · Application Development</i>
+  https://www.codewars.com/users/Geek3301/badges/large
+  <i>IT Specialist Apprentice · Application Development</i>
 </div>
 
 ---
